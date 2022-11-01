@@ -47,3 +47,4 @@ for i in range(len(operations)):
   elif operations[i] == "dequeue":
     queue.dequeue()
 queue.status()
+
